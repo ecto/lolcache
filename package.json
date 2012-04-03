@@ -1,0 +1,17 @@
+{
+  "author": "Cam Pedersen <diffference@gmail.com> (http://campedersen.com/)",
+  "name": "lolcache",
+  "description": "Simple asynchronous in-memory caching layer for node",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Lulo/lolcache.git"
+  },
+  "main": "lol.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
