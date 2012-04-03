@@ -4,7 +4,7 @@ Stupid simple asynchronous in-memory caching layer for node.
 
 I got tired of writing this over and over so I made it into a module.
 
-![](http://i.imgur.com/dzRgG.png)
+![](http://i.imgur.com/8fuB6.jpg)
 
 ## install
 
